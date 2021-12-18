@@ -1,1 +1,5 @@
-
+use crea_unabasededatos
+show dbs 
+ver todas la base de datos
+db ver base de batos
+db.products.insert( { "docm":"star war"} ) insert la table
